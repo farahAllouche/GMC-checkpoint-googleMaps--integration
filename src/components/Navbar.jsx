@@ -38,7 +38,7 @@ export default function Navbar() {
 const Nav = styled.nav`
   height: 80px;
   position: fixed;
-  padding: 0 100px;
+  padding: 0 200px;
   top: 0;
   left: 0;
   right: 0;
